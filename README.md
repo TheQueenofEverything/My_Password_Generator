@@ -4,7 +4,7 @@ Project URL:
 
 
 
-GitHub Repository URL:
+GitHub repository URL:
 
     https://github.com/TheQueenofEverything/My_Password_Generator
 
@@ -18,7 +18,7 @@ Project type:
     Software program
    
 
-Programming Languages used:
+Programming languages used:
 
     HTML, CSS and Javascript
 
@@ -38,11 +38,11 @@ Project goal:
 
     Creating a Password Generator (input from a random or pseudo-random number generator that automatically generates a password when clicked)
 
-Project Description:
+Project description:
 
     The project was build from scratch with HTML. CSS was used to create the visals of a box/ window with a buttom. At last Javascript was added to the HTML document to generate the passwords.
     
-Project Challenges:
+Project challenges:
 
     Figuring how to structure the Javascript document to be semantically correct;
     Understanding the logic behind loop statements that help generate random passwords;
