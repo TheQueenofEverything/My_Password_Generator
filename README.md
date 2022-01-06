@@ -40,7 +40,7 @@ Project goal:
 
 Project description:
 
-    The project was build from scratch with HTML. CSS was used to create the visals of a box/ window with a buttom. At last Javascript was added to the HTML document to generate the passwords.
+    The project was build with HTML from previous code I was allowed to modify. CSS was used to create the visals of a box/ window with a buttom. At last Javascript was added to the HTML document to generate the passwords.
     
 Project challenges:
 
