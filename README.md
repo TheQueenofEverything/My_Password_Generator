@@ -43,7 +43,7 @@ Project Discription:
     
 Project Challenges:
 
-    Figuring how to struscture the Javascript document to be semantically correct;
+    Figuring how to structure the Javascript document to be semantically correct;
     Understanding the logic behind loop statements that help generate random passwords;
 
 Features to implement in the future:
