@@ -5,7 +5,7 @@ Project URL:
 
 GitHub Repository URL:
 
-https://github.com/TheQueenofEverything/My_Password_Generator/blob/main/README.md
+    https://github.com/TheQueenofEverything/My_Password_Generator/blob/main/README.md
 
 
 Project name:
@@ -14,7 +14,7 @@ Project name:
 
 Project type:
 
-<b> Software program </b>
+    Software program
    
 
 Programming Languages used:
