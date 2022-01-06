@@ -14,7 +14,8 @@ Project name:
 
 Project type:
 
-   Software program
+<b> Software program </b>
+   
 
 Programming Languages used:
 
