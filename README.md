@@ -54,6 +54,4 @@ Screenshot:
 
 
 
-
-
-![Password Generator](https://user-images.githubusercontent.com/65464431/148454007-cf007a95-dd90-435e-a1ca-5bc6bc7db024.png)
+![Password Generator](https://user-images.githubusercontent.com/65464431/148454138-60e16457-9c9c-4917-b6dd-d0679c7c22a5.png)
