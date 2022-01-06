@@ -5,7 +5,7 @@ Project URL:
 
 GitHub Repository URL:
 
-https://github.com/TheQueenofEverything/MarianaMarques_Portfolio_Project.git
+https://github.com/TheQueenofEverything/My_Password_Generator/blob/main/README.md
 
 
 Project name:
