@@ -38,7 +38,7 @@ Project goal:
 
     Creating a Password Generator (input from a random or pseudo-random number generator that automatically generates a password when clicked)
 
-Project Discription:
+Project Description:
 
     The project was build from scratch with HTML. CSS was used to create the visals of a box/ window with a buttom. At last Javascript was added to the HTML document to generate the passwords.
     
