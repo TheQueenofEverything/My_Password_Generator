@@ -2,6 +2,7 @@
 
 Project URL: 
 
+    https://thequeenofeverything.github.io/My_Password_Generator/
 
 
 GitHub repository URL:
