@@ -1,0 +1,164 @@
+
+body {
+  background-color: #f3cdee;
+  color: rgb(114, 98, 108);
+  font-family:'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  padding: 10px;
+  margin: 0;
+  font-size: 1rem;
+}
+
+#flufflePuff {
+	width: 100%;
+	disply: block;
+	margin: 0 auto;
+	padding: 4% 30% 4% 30%;
+}
+
+
+/* HEADER & FLUFFLE PUFF OLD */
+/*
+header {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: flex-end;
+}
+
+#flufflePuff {
+	display: block;
+	width: 20%;
+	margin: 0 0 10px 10px;
+}
+
+header h1 {
+	width: 50%;
+}
+
+@media only screen and (max-width: 331px) {
+	#flufflePuff {
+		width: 20%;
+	}
+	
+	h1 {
+		font-size: 2em;
+		width: 75%;
+	}
+}
+@media only screen and (max-width: 446px) {
+	#flufflePuff {
+		width: 10%;
+	}
+	
+	h1 {
+		font-size: 2em;
+		width: 75%;
+	}
+}
+@media only screen and (max-width: 768px) {
+	#flufflePuff {
+		width: 20%;
+	}
+	
+	h1 {
+		font-size: 3em;
+		width: 75%;
+	}
+}
+@media only screen and (min-width: 768px) {
+	#flufflePuff {
+		width: 15%;
+	}
+	
+	h1 {
+		font-size: 1.3em;
+		width: 75%;
+	}
+}
+*/
+/* END OF HEADER & FLUFFLE PUFF*/
+
+
+.form-range::-webkit-slider-thumb {
+  background-color: #e994cd;
+}
+
+.btn {
+  border: 0;
+  outline: 0;
+}
+
+.btn.btn-primary {
+  background-color: #eb5ccc;
+  border-radius: 10px;
+  font-size: xx-large;
+}
+
+.btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active {
+  background-color: #b4047a;
+  box-shadow: 5rem;
+}
+
+.form-check-input:checked {
+  background-color: #f3389f;
+  border-color: #8b0062;
+}
+
+.generator {
+  background-color: #fff;
+  padding: 2rem 1rem;
+  border-radius: 15px;
+  box-shadow: 0 1px 5px 5px rgba(0, 0, 0, 0.08);
+}
+
+.generator .result-container {
+  background-color: rgba(0, 0, 0, 0.04);
+  align-items: center;
+  position: relative;
+  letter-spacing: 1px;
+  width: 100%;
+}
+
+.generator .result-container #result {
+  font-size: 0.95rem;
+  word-wrap: break-word;
+  border: 0px;
+  background-color: transparent;
+}
+
+.generator .result-container #result::-webkit-scrollbar {
+  width: 1rem;
+}
+
+.generator .passwordSelection {
+  border: 1px solid #e4e4e4;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.generator .passwordSelection #rangeText {
+  font-weight: bold;
+  font-size: 1.25rem;
+  border: 1px solid #c0c0c0;
+  padding: 0.25rem;
+  width: 100%;
+  display: block;
+  position: relative;
+  top: -10px;
+}
+
+.generator .form-check.form-switch {
+  margin-bottom: 0.75rem;
+}
+
+.generator .form-check.form-switch .form-check-input {
+  height: 1.5rem;
+  width: 2.5rem;
+}
+
+.generator .form-check.form-switch label {
+  margin-left: 1rem;
+  position: relative;
+  top: 0.25rem;
+}
