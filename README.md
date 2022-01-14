@@ -12,7 +12,7 @@ GitHub repository URL:
 
 Project name:
 
-    My_Password_Generator
+    Fluffy_Password_Generator
 
 Project type:
 
@@ -25,7 +25,7 @@ Programming languages used:
 
 Project duration (total):
 
-    10 hours
+    83 hours
 
 Project start date/end date:
 
@@ -33,7 +33,7 @@ Project start date/end date:
     
 Project submission date:
 
-    01/06/2021
+    14/06/2021
 
 Project goal:
 
@@ -41,20 +41,21 @@ Project goal:
 
 Project description:
 
-    The project was build with HTML from previous code I was allowed to modify. CSS was used to create the visals of a box/ window with a buttom. At last Javascript was added to the HTML document to generate the passwords.
+    The project was build with HTML from starter code and then modified. CSS was used to create the visals of a box/ window with a 'generate password' buttom and smaller 'on/off'  buttons, allowing the user to select more options regarding the password. Javascript was added to make the web page interactive.
     
 Project challenges:
 
     Figuring how to structure the Javascript document to be semantically correct;
     Understanding the logic behind loop statements that help generate random passwords;
+    Organizing the HTML, CSS and Javascript documents, to be concise and in order, so that they can be perciieved as well-oriented/ well-documented files. 
 
 Features to implement in the future:
 
-    Increment 3 password wrappers and program the box to generate 3 passwords at the same time. This is merely about choice. These passwords would be displayed at the same time in the box. This would allow the user to have more choice rather than constantly click the button to change to a desired password.
+    More improvements should be made in CSS regarding media queries, so that this password generator can adapt to various screensizes/resolutions. 
     
     
 Screenshot:
 
 
 
-![Password_Generator](https://user-images.githubusercontent.com/65464431/148460781-5fc0c484-1632-4feb-94e8-3e82e39bb259.png)
+
