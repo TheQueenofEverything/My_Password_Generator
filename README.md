@@ -2,7 +2,7 @@
 
 Project URL: 
 
-    https://thequeenofeverything.github.io/My_Password_Generator/
+    https://thequeenofeverything.github.io/My_Password_Generator/Fluffle_Password_Generator/index.html
 
 
 GitHub repository URL:
