@@ -2,7 +2,7 @@ Unicorn Password Generator
 
 Project URL:
 
-    https://mmvrstudio.github.io/My_Password_Generator/Fluffle_Password_Generator/
+    https://mmvrstudio.github.io/JAVASCRIPT-PasswordGenerator/Fluffle_Password_Generator/
 
 
 
